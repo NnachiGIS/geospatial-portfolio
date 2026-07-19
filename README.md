@@ -43,16 +43,14 @@ I am **Nnachi Ikwuo Nnachi**, a GIS Specialist, Remote Sensing Analyst, and Eart
 ### GIS & Mapping
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-005A9C?style=for-the-badge&logo=arcgis&logoColor=white)
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
-![ArcMap](https://img.shields.io/badge/ArcMap-1565C0?style=for-the-badge&logo=arcgis&logoColor=white)
-![ArcGIS Online](https://img.shields.io/badge/ArcGIS%20Online-1976D2?style=for-the-badge&logo=arcgis&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![ERDAS IMAGINE](https://img.shields.io/badge/ERDAS%20IMAGINE-0B5394?style=for-the-badge)
 ![IDRISI TerrSet](https://img.shields.io/badge/IDRISI%20TerrSet-00897B?style=for-the-badge)
 
 ### Earth Observation & Datasets
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=google-earth-engine&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=google&logoColor=white)
 ![Landsat](https://img.shields.io/badge/Landsat-2E7D32?style=for-the-badge)
-![Sentinel](https://img.shields.io/badge/Sentinel-1565C0?style=for-the-badge&logo=sentinel&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Sentinel-1565C0?style=for-the-badge&logo=european-space-agency&logoColor=white)
 ![MODIS](https://img.shields.io/badge/MODIS-E65100?style=for-the-badge)
 ![CHIRPS](https://img.shields.io/badge/CHIRPS-0277BD?style=for-the-badge)
 ![ERA5](https://img.shields.io/badge/ERA5-6A1B9A?style=for-the-badge)
