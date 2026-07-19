@@ -42,24 +42,24 @@ I am **Nnachi Ikwuo Nnachi**, a GIS Specialist, Remote Sensing Analyst, and Eart
 
 ### GIS & Mapping
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-005A9C?style=for-the-badge&logo=arcgis&logoColor=white)
-![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
 ![ArcMap](https://img.shields.io/badge/ArcMap-1565C0?style=for-the-badge&logo=arcgis&logoColor=white)
-![ArcGIS Online](https://img.shields.io/badge/ArcGIS%20Online-1976D2?style=for-the-badge&logo=arcgis&logoColor=white)
+![ArcGIS Online](https://img.shields.io/badge/ArcGIS_Online-1976D2?style=for-the-badge&logo=arcgis&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![ERDAS IMAGINE](https://img.shields.io/badge/ERDAS%20IMAGINE-0B5394?style=for-the-badge)
-![IDRISI TerrSet](https://img.shields.io/badge/IDRISI%20TerrSet-00897B?style=for-the-badge)
+![ERDAS IMAGINE](https://img.shields.io/badge/ERDAS_IMAGINE-0B5394?style=for-the-badge)
+![IDRISI TerrSet](https://img.shields.io/badge/IDRISI_TerrSet-00897B?style=for-the-badge)
 
 ### Earth Observation & Datasets
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge)
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-34A853?style=for-the-badge)
 ![Landsat](https://img.shields.io/badge/Landsat-2E7D32?style=for-the-badge)
 ![Sentinel](https://img.shields.io/badge/Sentinel-1565C0?style=for-the-badge)
 ![MODIS](https://img.shields.io/badge/MODIS-E65100?style=for-the-badge)
 ![CHIRPS](https://img.shields.io/badge/CHIRPS-0277BD?style=for-the-badge)
 ![ERA5](https://img.shields.io/badge/ERA5-6A1B9A?style=for-the-badge)
 ![SoilGrids](https://img.shields.io/badge/SoilGrids-6D4C41?style=for-the-badge)
-![Hansen GFC](https://img.shields.io/badge/Hansen%20GFC-388E3C?style=for-the-badge)
+![Hansen GFC](https://img.shields.io/badge/Hansen_GFC-388E3C?style=for-the-badge)
 ![SRTM](https://img.shields.io/badge/SRTM-795548?style=for-the-badge)
-![Copernicus DEM](https://img.shields.io/badge/Copernicus%20DEM-00897B?style=for-the-badge)
+![Copernicus DEM](https://img.shields.io/badge/Copernicus_DEM-00897B?style=for-the-badge)
 
 ### Programming & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,17 +69,15 @@ I am **Nnachi Ikwuo Nnachi**, a GIS Specialist, Remote Sensing Analyst, and Eart
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Research Areas
-![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-00897B?style=for-the-badge)
-![Earth Observation](https://img.shields.io/badge/Earth%20Observation-1565C0?style=for-the-badge)
-![Climate Analytics](https://img.shields.io/badge/Climate%20Analytics-7B1FA2?style=for-the-badge)
-![Forest Carbon](https://img.shields.io/badge/Forest%20Carbon-2E7D32?style=for-the-badge)
-![Urban Heat](https://img.shields.io/badge/Urban%20Heat-E53935?style=for-the-badge)
-![Air Quality](https://img.shields.io/badge/Air%20Quality-039BE5?style=for-the-badge)
-![LULC Mapping](https://img.shields.io/badge/LULC%20Mapping-43A047?style=for-the-badge)
+![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-00897B?style=for-the-badge)
+![Earth Observation](https://img.shields.io/badge/Earth_Observation-1565C0?style=for-the-badge)
+![Climate Analytics](https://img.shields.io/badge/Climate_Analytics-7B1FA2?style=for-the-badge)
+![Forest Carbon](https://img.shields.io/badge/Forest_Carbon-2E7D32?style=for-the-badge)
+![Urban Heat](https://img.shields.io/badge/Urban_Heat-E53935?style=for-the-badge)
+![Air Quality](https://img.shields.io/badge/Air_Quality-039BE5?style=for-the-badge)
+![LULC Mapping](https://img.shields.io/badge/LULC_Mapping-43A047?style=for-the-badge)
 ![GeoAI](https://img.shields.io/badge/GeoAI-FF9800?style=for-the-badge)
-![Spatial Modelling](https://img.shields.io/badge/Spatial%20Modelling-546E7A?style=for-the-badge)
-
----
+![Spatial Modelling](https://img.shields.io/badge/Spatial_Modelling-546E7A?style=for-the-badge)
 
 # 🚀 Featured Projects
 
