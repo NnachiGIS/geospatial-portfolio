@@ -1,5 +1,7 @@
 # 🌍 Geospatial Portfolio
 
+> Transforming satellite data into actionable environmental intelligence through GIS, Remote Sensing and Earth Observation.
+
 Welcome to my professional geospatial portfolio.
 
 I am **Nnachi Ikwuo Nnachi**, a GIS Specialist, Remote Sensing Analyst, and Earth Observation Scientist with expertise in environmental monitoring, climate analytics, and spatial data science.
@@ -38,32 +40,41 @@ Spatio-temporal modelling of PM₂.₅ and PM₁₀ using satellite observations
 
 ---
 
-# Research Interests
+# 🔬 Research Interests
 
+- Geographic Information Systems (GIS)
+- Remote Sensing
 - Earth Observation
 - Climate Change
-- Remote Sensing
-- GIS
 - Environmental Modelling
-- Machine Learning for Geospatial Analysis
-- Sustainable Development
-- Environmental Decision Support Systems
-
+- Forest Carbon Assessment
+- Urban Heat Dynamics
+- Climate Analytics
+- Air Quality Modelling
+- Geospatial Artificial Intelligence (GeoAI)
 ---
 
-# Current Focus
+# 🚀 Current Projects
 
 - 🇳🇬 Nigeria Climate Dashboard
-- 🌍 Environmental Intelligence Platform
-- 🌡 Urban Heat Dynamics
-- 🌱 Vegetation Monitoring
-- ☁️ Climate Data Analytics
+- 🌡 Urban Heat Dynamics of Enugu State
+- 🌫 PM₂.₅ & PM₁₀ Modelling (Abuja)
+- 🌳 National Forest Carbon Assessment (Nigeria)
+- 🌍 Iran–Israel Environmental Impact Assessment
+- 🇭🇺 Debrecen Climate & Environmental Research
+- 🇭🇺 Győr Geospatial Research
 
 ---
 
-# Connect
+# 🌐 Connect
 
-- LinkedIn
-- Google Scholar
-- ORCID
-- Email
+📧 Email: nnachiikwuo@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/nnachi-nnachi-016390114/
+
+🎓 Google Scholar:
+https://scholar.google.com/citations?user=aV0_MHkAAAAJ&hl=en
+
+🆔 ORCID:
+https://orcid.org/0000-0002-3455-3450
