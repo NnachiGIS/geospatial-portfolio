@@ -1,67 +1,94 @@
-# 🌍 Geospatial Portfolio
+<p align="center">
+  <img src="assets/Banner.png" width="100%" alt="Nnachi Ikwuo Nnachi">
+</p>
 
-> **Transforming satellite data into actionable environmental intelligence through GIS, Remote Sensing and Earth Observation.**
+<h1 align="center">🌍 Geospatial Portfolio</h1>
 
-This portfolio showcases my work in **GIS, Remote Sensing, Earth Observation, Climate Analytics, and Environmental Intelligence** through research, open-source tools, and geospatial applications.
+<p align="center">
+<b>Transforming satellite data into actionable environmental intelligence through GIS, Remote Sensing and Earth Observation.</b>
+</p>
 
----
+<p align="center">
+<a href="mailto:nnachiikwuo@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-# 👨‍💼 About Me
+<a href="https://www.linkedin.com/in/nnachi-nnachi-016390114/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-I am **Nnachi Ikwuo Nnachi**, a GIS Specialist, Remote Sensing Analyst, and Earth Observation Researcher with over five years of experience developing geospatial solutions for environmental monitoring, climate change assessment, land-use analysis, forest monitoring, and spatial decision support. My work integrates GIS, satellite remote sensing, cloud computing, and spatial data science to generate actionable insights for sustainable environmental management.
+<a href="https://scholar.google.com/citations?user=aV0_MHkAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
+</a>
 
----
-
-# 🛠 Technical Expertise
-
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge)
-![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-4479A1?style=for-the-badge)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-34A853?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge)
-![ERDAS](https://img.shields.io/badge/ERDAS_IMAGINE-00599C?style=for-the-badge)
-![IDRISI](https://img.shields.io/badge/IDRISI_TerrSet-008080?style=for-the-badge)
-
----
-
-# 🛰 Earth Observation Datasets
-
-![Landsat](https://img.shields.io/badge/Landsat-228B22?style=for-the-badge)
-![Sentinel](https://img.shields.io/badge/Sentinel-0B3D91?style=for-the-badge)
-![MODIS](https://img.shields.io/badge/MODIS-FF6F00?style=for-the-badge)
-![CHIRPS](https://img.shields.io/badge/CHIRPS-1565C0?style=for-the-badge)
-![ERA5](https://img.shields.io/badge/ERA5-512DA8?style=for-the-badge)
-![SoilGrids](https://img.shields.io/badge/SoilGrids-6D4C41?style=for-the-badge)
-![Hansen GFC](https://img.shields.io/badge/Hansen_GFC-2E7D32?style=for-the-badge)
-![SRTM](https://img.shields.io/badge/SRTM-795548?style=for-the-badge)
-![Copernicus DEM](https://img.shields.io/badge/Copernicus_DEM-1976D2?style=for-the-badge)
+<a href="https://orcid.org/0000-0002-3455-3450">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
+</a>
+</p>
 
 ---
 
-# 📊 Geospatial Methods
+# 🌍 Overview
 
-![LULC](https://img.shields.io/badge/Land_Use/Land_Cover-4CAF50?style=for-the-badge)
-![NDVI](https://img.shields.io/badge/NDVI-2E7D32?style=for-the-badge)
-![EVI](https://img.shields.io/badge/EVI-43A047?style=for-the-badge)
-![NDBI](https://img.shields.io/badge/NDBI-8D6E63?style=for-the-badge)
-![NDWI](https://img.shields.io/badge/NDWI-039BE5?style=for-the-badge)
-![LST](https://img.shields.io/badge/Land_Surface_Temperature-E53935?style=for-the-badge)
-![Carbon](https://img.shields.io/badge/Forest_Carbon-388E3C?style=for-the-badge)
-![Change Detection](https://img.shields.io/badge/Change_Detection-5E35B1?style=for-the-badge)
-![Time Series](https://img.shields.io/badge/Time_Series-3949AB?style=for-the-badge)
-![GeoAI](https://img.shields.io/badge/GeoAI-FF9800?style=for-the-badge)
+This repository showcases my professional work in **Geographic Information Systems (GIS), Remote Sensing, Earth Observation, Climate Analytics, Environmental Modelling, and Spatial Data Science**. It brings together research projects, geospatial applications, interactive dashboards, publications, and open-source tools developed to support environmental monitoring and evidence-based decision-making.
 
 ---
 
-# 🚀 Featured Projects
+# 👨‍💼 About
 
-- 🇳🇬 Nigeria Climate Dashboard
-- 🌳 National Forest Carbon Assessment
-- 🔥 Urban Heat Dynamics of Enugu State
-- 🌫 PM₂.₅ & PM₁₀ Modelling (Abuja)
-- 🌲 Okwangwo Forest Dynamics
-- 🌍 Iran–Israel Environmental Impact Assessment
+I am **Nnachi Ikwuo Nnachi**, a GIS Specialist, Remote Sensing Analyst, and Earth Observation Researcher with over five years of experience applying geospatial technologies to climate change, forest monitoring, urban dynamics, air quality, and sustainable environmental management.
+
+---
+
+# 🚀 Technical Expertise
+
+| GIS & Mapping | Earth Observation | Environmental Analytics |
+|:--------------|:------------------|:------------------------|
+| ArcGIS Pro | Landsat | Climate Analytics |
+| ArcMap | Sentinel-1 & Sentinel-2 | Forest Carbon Assessment |
+| ArcGIS Online | MODIS | Urban Heat Dynamics |
+| QGIS | CHIRPS | Air Quality Modelling |
+| ERDAS IMAGINE | ERA5 | Land Use/Land Cover Mapping |
+| IDRISI TerrSet | SoilGrids | Change Detection |
+| Google Earth Engine | Hansen Global Forest Change | Spatial Decision Support |
+
+---
+
+# 💻 Programming & Tools
+
+- Google Earth Engine
+- Python
+- JavaScript
+- ArcGIS
+- ArcGIS Online
+- ArcGIS Pro
+- QGIS
+- ERDAS IMAGINE
+- IDRISI TerrSet
+- Microsoft Excel
+- Git & GitHub
+
+---
+
+# 🛰 Featured Projects
+
+### 🇳🇬 Nigeria Climate Dashboard
+Interactive dashboard integrating vegetation indices, climate variables, rainfall, temperature, and environmental indicators across Nigeria.
+
+### 🌳 National Forest Carbon Assessment
+National-scale forest carbon estimation and monitoring using Google Earth Engine.
+
+### 🔥 Urban Heat Dynamics
+Assessment of urban expansion, land surface temperature, and landscape fragmentation.
+
+### 🌫 PM₂.₅ & PM₁₀ Modelling
+Satellite-derived air quality modelling using Aerosol Optical Depth and environmental variables.
+
+### 🌲 Okwangwo Forest Dynamics
+Long-term forest resilience and socio-ecological change assessment.
+
+### 🌍 Iran–Israel Environmental Impact Assessment
+Earth Observation analysis of environmental impacts associated with regional conflict.
 
 ---
 
@@ -72,29 +99,49 @@ I am **Nnachi Ikwuo Nnachi**, a GIS Specialist, Remote Sensing Analyst, and Eart
 - Earth Observation
 - Climate Change
 - Environmental Modelling
-- Forest Carbon Assessment
-- Urban Heat Dynamics
-- Air Quality Modelling
 - Climate Analytics
+- Forest Carbon
+- Urban Heat Dynamics
+- Air Quality
 - Geospatial Artificial Intelligence (GeoAI)
 
 ---
 
 # 📚 Selected Publications
 
-Selected peer-reviewed publications are available in my dedicated **Publications** repository and on my Google Scholar profile.
+- Urban Expansion and Landscape Transformation in Lokoja *(Biosphere, 2026)*
+- Forest Cover Dynamics in Okwangwo *(Journal of Sustainable Forestry, 2026)*
+- Integrating Traditional Ecological Knowledge into Forest Governance *(Environmental Policy and Governance, 2026)*
+- Forest Carbon Dynamics in Nigeria *(Kaduna Journal of Geography, 2025)*
+- Forest Resilience and Community Adaptation *(Alvan Journal of Social Sciences, 2025)*
+
+*A complete list of publications, citations, and DOI links will be maintained in the dedicated **Publications** repository.*
 
 ---
 
-# 🌐 Connect
+# 🚧 Current Research
 
-📧 Email: **nnachiikwuo@gmail.com**
+- 🇳🇬 Nigeria Climate Dashboard
+- 🌡 Urban Heat Dynamics of Enugu State
+- 🌫 PM₂.₅ & PM₁₀ Modelling (Abuja)
+- 🌳 National Forest Carbon Assessment
+- 🌍 Iran–Israel Environmental Impact Assessment
+- 🇭🇺 Climate & Environmental Research (Debrecen & Győr)
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/nnachi-nnachi-016390114/
+---
 
-🎓 Google Scholar:  
-https://scholar.google.com/citations?user=aV0_MHkAAAAJ&hl=en
+# 📬 Connect
 
-🆔 ORCID:  
-https://orcid.org/0000-0002-3455-3450
+📧 **Email:** nnachiikwuo@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/nnachi-nnachi-016390114/
+
+🎓 **Google Scholar:** https://scholar.google.com/citations?user=aV0_MHkAAAAJ&hl=en
+
+🆔 **ORCID:** https://orcid.org/0000-0002-3455-3450
+
+---
+
+<p align="center">
+<b>Using geospatial intelligence to understand our changing planet.</b>
+</p>
