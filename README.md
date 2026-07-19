@@ -41,13 +41,13 @@ I am **Nnachi Ikwuo Nnachi**, a GIS Specialist, Remote Sensing Analyst, and Eart
 # 🛰 Technical Expertise
 
 ### GIS & Mapping
-![ArcGIS](https://img.shields.io/badge/ArcGIS-005A9C?style=for-the-badge&logo=arcgis&logoColor=white)
-![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
-![ArcMap](https://img.shields.io/badge/ArcMap-1565C0?style=for-the-badge&logo=arcgis&logoColor=white)
-![ArcGIS Online](https://img.shields.io/badge/ArcGIS_Online-1976D2?style=for-the-badge&logo=arcgis&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![ERDAS IMAGINE](https://img.shields.io/badge/ERDAS_IMAGINE-0B5394?style=for-the-badge)
-![IDRISI TerrSet](https://img.shields.io/badge/IDRISI_TerrSet-00897B?style=for-the-badge)
+- **ArcGIS** 
+- **ArcGIS Pro** 
+- **ArcMap** 
+- **ArcGIS Online** 
+- **QGIS** 
+- **ERDAS IMAGINE** 
+- **IDRISI TerrSet**
 
 ### Earth Observation & Datasets
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-34A853?style=for-the-badge)
