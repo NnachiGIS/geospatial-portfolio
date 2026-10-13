@@ -101,6 +101,23 @@ The main visual deliverable is a fully interactive HTML map.
 
 ---
 
+## 🌍 Google Earth Engine Scripts
+
+The environmental layers used in this pilot were prepared in Google Earth Engine.  
+You can open and run each script directly in the GEE Code Editor:
+
+| Layer | Description | Live Script |
+|-------|-------------|-------------|
+| 🌧️ **Annual Rainfall** | CHIRPS daily precipitation summed for 2024 | [Open in GEE](https://code.earthengine.google.com/b4b2cfcd617c8a6320b62fcd0fb97dd8) |
+| 🌡️ **Land Surface Temperature** | MODIS MOD11A2 annual mean LST (°C) | [Open in GEE](https://code.earthengine.google.com/f67623a786bba5e2e85f94d0c61f9359) |
+| 🌱 **NDVI** | Landsat 8/9 annual mean NDVI | [Open in GEE](https://code.earthengine.google.com/67a5faffe77befb6b1faf91b8e54840b) |
+| 🗻 **Elevation** | Copernicus GLO-30 Digital Elevation Model | [Open in GEE](https://code.earthengine.google.com/133c1a0427682cdb0d4d3d0edc682acd) |
+
+> **Note**:  
+> - Click any link above to open the script in Google Earth Engine.  
+> - You may need to replace the `lga` asset with your own boundary or a public one.  
+> - Visitors can run and experiment with the scripts without affecting the original versions.
+
 ## 👤 Author
 
 **Nnachi Ikwuo Nnachi**  
