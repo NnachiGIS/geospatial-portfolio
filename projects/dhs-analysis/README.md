@@ -17,14 +17,14 @@
 
 This pilot demonstrates a complete and reproducible workflow that links three critical families of information at a consistent spatial scale:
 
-- 🌿 **Environmental Exposure** → Rainfall, Land Surface Temperature, NDVI & Elevation  
-- 🏙️ **Built-Environment Morphology** → Building counts, footprint area & road length (H3 hexagons)  
-- 👨‍👩‍👧‍👦 **DHS Survey Indicators** → Household size, wealth, electricity access & sample sizes (HR, IR, KR, MR, PR)
+- 🌿 **Environmental Exposure** → Rainfall (CHIRPS), Land Surface Temperature (MODIS), NDVI (Landsat) & Elevation (Copernicus DEM)  
+- 🏙️ **Built-Environment Morphology** → Building counts, footprint area & road length using H3 hexagonal cells  
+- 👨‍👩‍👧‍👦 **DHS Survey Indicators** → Household size, wealth, electricity access & sample sizes (HR, IR, KR, MR, PR modules)
 
-**Key Question Answered:**  
-Can environmental and built-environment measures be transparently attached to official DHS clusters?
+**Key Question:**  
+Can environmental and built-environment measures be transparently and reproducibly attached to official DHS clusters?
 
-**Answer:** Yes — and the same workflow is ready to scale nationally.
+**Answer:** Yes — and the same workflow is designed to scale from FCT to a national product.
 
 ---
 
@@ -36,44 +36,47 @@ Can environmental and built-environment measures be transparently attached to of
 | 📍 DHS Clusters in FCT                 | **37**      |
 | 🌧️ Clusters with Rainfall & LST        | **37 / 37** |
 | 🌱 Clusters with NDVI & Elevation      | **35 / 37** |
-| 🗂️ Analytical Units                    | H3 Res 8 & 9 |
+| 🗂️ Analytical Units                    | H3 Resolution 8 & 9 |
 
 ---
 
 ## 🗺️ Interactive Map
 
-> The main visual deliverable of this project.
+The main visual deliverable is a fully interactive HTML map.
 
-**🔗 [Click here to open the Interactive Map](./outputs/FCT_Pilot_Full_Integration_Map.html)**  
-*(Replace this link after uploading the HTML file)*
+**📦 [Download Interactive Map (ZIP)](./outputs/FCT_Pilot_Full_Integration_Map_Final.zip)**
 
-**How to use the map:**
-- Use the **layer control** (top-left) to switch themes
-- Click any **red DHS cluster** to view the full profile
-- Toggle between NDVI, Rainfall, LST, Elevation, Buildings & Roads
+> **How to view the map:**  
+> 1. Download the ZIP file  
+> 2. Extract it  
+> 3. Open the HTML file in Chrome, Firefox, or Edge  
+
+**Map Features:**
+- Switch between NDVI, Rainfall, LST, Elevation, Building Count & Road Length
+- Click any red DHS cluster to view full environmental + socioeconomic profile
+- Multiple basemaps (OpenStreetMap, Satellite, Topographic)
 
 ---
 
 ## 📁 Project Deliverables
 
-| Deliverable                        | Description                              | Link |
-|------------------------------------|------------------------------------------|------|
-| 🗺️ Interactive HTML Map            | Full integration map with pop-ups        | [View Map](./outputs/FCT_Pilot_Full_Integration_Map.html) |
-| 📊 Excel Attribute Table           | 37 DHS clusters with all indicators      | [Download Excel](./outputs/FCT_DHS_Clusters_Full_Integrated.xlsx) |
-| 📄 Client Technical Report         | Full methodology & interpretation guide  | [View Report](./docs/FCT_Pilot_Client_Report.pdf) |
-
-> ⚠️ **Note:** Replace the links above with the correct paths after you upload the files.
+| Deliverable                        | Description                                      | Link |
+|------------------------------------|--------------------------------------------------|------|
+| 🗺️ Interactive Map                 | Full integration map with cluster pop-ups        | [Download ZIP](./outputs/FCT_Pilot_Full_Integration_Map_Final.zip) |
+| 📊 Excel Attribute Table           | 37 DHS clusters with all indicators              | [Download Excel](./outputs/FCT_DHS_Clusters_Full_Integrated.xlsx) |
+| 📄 Client Technical Report         | Full methodology & interpretation guide          | [View Report](./docs/FCT_Pilot_Client_Report.pdf) |
 
 ---
 
 ## 🛠️ Methodology Summary
 
-1. **H3 Tessellation** → Created hexagonal grid (Resolution 8 & 9) for FCT  
-2. **Morphology Analysis** → Calculated buildings and road length per H3 cell  
-3. **DHS Cluster Assignment** → Linked 37 clusters to H3 cells  
-4. **Environmental Extraction** → CHIRPS, MODIS LST, Landsat NDVI & Copernicus DEM via Google Earth Engine  
-5. **Survey Aggregation** → Combined HR, IR, KR, MR & PR modules  
-6. **Final Integration** → Produced interactive map + analysis-ready tables
+1. Created H3 hexagonal tessellation (Resolution 8 & 9) covering FCT  
+2. Calculated building and road morphology per H3 cell  
+3. Assigned 37 DHS clusters to their corresponding H3 cells  
+4. Prepared environmental rasters in **Google Earth Engine**  
+5. Extracted environmental values using point sampling + zonal statistics  
+6. Aggregated DHS modules (HR – IR – KR – MR – PR) to cluster level  
+7. Integrated all layers and generated the interactive map + analysis-ready tables
 
 ---
 
