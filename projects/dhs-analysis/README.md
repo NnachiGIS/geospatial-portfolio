@@ -44,7 +44,7 @@ Can environmental and built-environment measures be transparently and reproducib
 
 The main visual deliverable is a fully interactive HTML map.
 
-**📦 [Download Interactive Map (ZIP)](./outputs/FCT_Pilot_Full_Integration_Map_Final.zip)**
+**📦 [Download Interactive Map (ZIP)](./outputs/FCT_Pilot_Full_Integration_Map_FINAL.zip)**
 
 > **How to view the map:**  
 > 1. Download the ZIP file  
@@ -62,9 +62,9 @@ The main visual deliverable is a fully interactive HTML map.
 
 | Deliverable                        | Description                                      | Link |
 |------------------------------------|--------------------------------------------------|------|
-| 🗺️ Interactive Map                 | Full integration map with cluster pop-ups        | [Download ZIP](./outputs/FCT_Pilot_Full_Integration_Map_Final.zip) |
+| 🗺️ Interactive Map                 | Full integration map with cluster pop-ups        | [Download ZIP](./outputs/FCT_Pilot_Full_Integration_Map_FINAL.zip) |
 | 📊 Excel Attribute Table           | 37 DHS clusters with all indicators              | [Download Excel](./outputs/FCT_DHS_Clusters_Full_Integrated.xlsx) |
-| 📄 Client Technical Report         | Full methodology & interpretation guide          | [View Report](./docs/FCT_Pilot_Client_Report.pdf) |
+| 📄 Client Technical Report         | Full methodology & interpretation guide          | [View Report](./doc/FCT_Pilot_Client_Report.pdf) |
 
 ---
 
